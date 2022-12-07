@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" isELIgnored="false" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,6 +19,7 @@
 </head>
 <body>
 <div style='width:100%;text-align:center;padding-top:100px'>
+    <script>login_fail(${login_f})</script>
     <img src='../img/snowman.jpg' height="250">
     <form method="post"action="loginOk">
         <div><label>User ID: </label><input type='text'name='userid'/></div>

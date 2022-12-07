@@ -33,6 +33,7 @@ public class LoginController {
             returnURL = "redirect:/board/list";
         } else{
             System.out.println("로그인 실패!");
+            session.setAttribute("login_f",0);
             returnURL = "redirect:/login/login";
         }
         return returnURL;

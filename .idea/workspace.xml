@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="p3_21900628_3:war2" />
+      <artifact name="Login_ex:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8a29b5-4995-4c4f-8774-fe5af2ac5e81" name="변경" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/p3_21900628_3_war2.xml" afterDir="false" />
+    <list default="true" id="cd8a29b5-4995-4c4f-8774-fe5af2ac5e81" name="변경" comment="Debug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,8 @@
     "last_opened_file_path": "/Users/jangsechang/IdeaProjects/Login_ex/src/main/java/com/example/board",
     "project.structure.last.edited": "아티팩트",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "21a6760c9de4f844adbd0f1dc06df4c5"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -182,7 +184,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670309135735</updated>
-      <workItem from="1670309137182" duration="24860000" />
+      <workItem from="1670309137182" duration="25349000" />
+      <workItem from="1670389179079" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1670337980660</created>
@@ -191,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670337980660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Debug">
+      <created>1670339093105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670339093105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +220,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debug" />
   </component>
 </project>
