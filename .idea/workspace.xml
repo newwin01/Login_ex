@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Login_ex:war exploded" />
+      <artifact name="p3_21900628_3:war2" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8a29b5-4995-4c4f-8774-fe5af2ac5e81" name="변경" comment="Debug">
+    <list default="true" id="cd8a29b5-4995-4c4f-8774-fe5af2ac5e81" name="변경" comment="Login_fail function updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/login/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DataSourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DataSourceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,24 +54,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jangsechang/IdeaProjects/Login_ex/src/main/java/com/example/board",
-    "project.structure.last.edited": "아티팩트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "21a6760c9de4f844adbd0f1dc06df4c5"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jangsechang/IdeaProjects/Login_ex/src/main/java/com/example/board&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;아티팩트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;21a6760c9de4f844adbd0f1dc06df4c5&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/example/board" />
@@ -185,7 +185,8 @@
       <option name="presentableId" value="Default" />
       <updated>1670309135735</updated>
       <workItem from="1670309137182" duration="25349000" />
-      <workItem from="1670389179079" duration="285000" />
+      <workItem from="1670389179079" duration="544000" />
+      <workItem from="1670569844665" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1670337980660</created>
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670339093105</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Login_fail function updated">
+      <created>1670389542883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670389542883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +229,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debug" />
+    <MESSAGE value="Login_fail function updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login_fail function updated" />
   </component>
 </project>
